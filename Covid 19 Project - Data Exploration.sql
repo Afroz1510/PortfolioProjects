@@ -1,3 +1,9 @@
+/* Covid 19 Exploration
+
+Skills used: CTE's, Temp Table, Windows Functions, Aggregate Functions and Creating View
+
+*/
+
 SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent is not null
